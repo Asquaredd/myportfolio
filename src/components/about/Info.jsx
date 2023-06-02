@@ -1,5 +1,6 @@
 import React from 'react';
-import { HiOutlineDesktopComputer, HiOutlineTerminal, HiOutlineSparkles } from "react-icons/hi";
+import { HiOutlineDesktopComputer, HiOutlineTerminal, HiOutlineSparkles, HiOutlineAcademicCap, HiOutlineGlobeAlt, HiOutlineTranslate } from "react-icons/hi";
+
 
 const Info = () => {
   return (
@@ -15,19 +16,19 @@ const Info = () => {
             <span className="about__subtitle">25+ Projects</span>
         </div>
         <div className="about__box">
-            <HiOutlineSparkles className="about__icon" />
-            <h3 className="about__title">Support</h3>
-            <span className="about__subtitle">Online 24/7</span>
+            <HiOutlineAcademicCap className="about__icon" />
+            <h3 className="about__title">Up-To-Date</h3>
+            <span className="about__subtitle">Constantly Improving</span>
         </div>
         <div className="about__box">
-            <HiOutlineSparkles className="about__icon" />
-            <h3 className="about__title">Support</h3>
-            <span className="about__subtitle">Online 24/7</span>
+            <HiOutlineTranslate className="about__icon" />
+            <h3 className="about__title">Multilingual</h3>
+            <span className="about__subtitle">Easy communcation</span>
         </div>
         <div className="about__box">
-            <HiOutlineSparkles className="about__icon" />
-            <h3 className="about__title">Support</h3>
-            <span className="about__subtitle">Online 24/7</span>
+            <HiOutlineGlobeAlt className="about__icon" />
+            <h3 className="about__title">Globab</h3>
+            <span className="about__subtitle">Easy Collaboration</span>
         </div>
         <div className="about__box">
             <HiOutlineSparkles className="about__icon" />
