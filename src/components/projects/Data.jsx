@@ -1,6 +1,6 @@
-import Project1 from "../../assets/project1.webp";
-import Project2 from "../../assets/project2.webp";
-import Project3 from "../../assets/project3.webp";
+import Project1 from "../../assets/project1_piano.webp";
+import Project2 from "../../assets/project2_bmi.webp";
+import Project3 from "../../assets/project3_nasamemory.webp";
 
 
 export const projectsData = [
