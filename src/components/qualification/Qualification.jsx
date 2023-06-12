@@ -53,7 +53,7 @@ const Qualification = () => {
                         </div>
                         <div>
                             <h3 className="qualification__title">California Poly Technic University: Pomona</h3>
-                            <span className="qualification__subtitle">CPP</span>
+                            <span className="qualification__subtitle">B.A Computer Engineering</span>
                             <div className="qualification__calendar">
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
                                 2021-2022

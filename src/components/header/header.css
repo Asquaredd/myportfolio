@@ -42,6 +42,8 @@
 /* ACTIVE LINK */
 .active-link, .nav__link:hover {
     color: var(--title-color-dark);
+    transition: all .2s ease-in-out;
+    transform: scale(1.25);
 }
 
 /* CHANGE HEADER */

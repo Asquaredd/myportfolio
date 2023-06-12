@@ -9,22 +9,22 @@
     --sat: 0%;
     --title-color: hsl(var(--hue), var(--sat), 20%);
     /* --title-color-dark: hsl(var(--hue), var(--sat), 0%); */
-    --title-color-dark: hsl(75, 46%, 51%);
+    --title-color-dark:rgba(0, 76, 255, 0.707);
     --text-color: hsl(var(--hue), var(--sat), 46%);
     --body-color: hsl(var(--hue), var(--sat), 98%);
     --container-color: #fff;
     /* STATIC TYPOGRAPHY */
     --body-font: "Nunito", sans-serif;
     --big-font-size: 3.5rem;
-    --h1-font-size: 2.25rem;
+    --h1-font-size: 2.5rem;
     --h2-font-size: 1.5rem;
     --h3-font-size: 1.25rem;
     --normal-font-size: 1rem;
-    --small-font-size: 0.875rem;
+    --small-font-size: 0.955rem;
     --smaller-font-size: 0.813rem;
     --smallest-font-size: 0.625rem;
     --font-normal: 400;
-    --font-medium: 500;
+    --font-medium: 600;
     --font-semibold: 600;
     --font-bold: 700;
     /* BOTTOM MARGINS */
@@ -45,7 +45,7 @@
 /* RESPONSIVE TYPOGRAPHY */
 @media screen and (max-width: 992px) {
     :root {
-        --big-font-size: 2.75rem;
+        --big-font-size: 3.75rem;
         --h1-font-size: 1.5rem;
         --h2-font-size: 1.25rem;
         --h3-font-size: 1rem;
@@ -137,7 +137,9 @@ img {
 }
 
 .button:hover {
-    background-color: var(--title-color-dark);
+   transition: all .2s ease-in-out;
+   background-color: var(--title-color-dark);
+   transform: scale(1.2);
 }
 
 .button__icon {

@@ -18,6 +18,8 @@
 
 .qualification__button:hover {
     color: var(--title-color-dark);
+    transition: all .1s ease-in-out;
+    transform: scale(1.1);
 }
 
 .qualification__icon {

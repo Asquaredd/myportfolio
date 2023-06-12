@@ -27,7 +27,7 @@ const Info = () => {
         </div>
         <div className="about__box">
             <HiOutlineGlobeAlt className="about__icon" />
-            <h3 className="about__title">Globab</h3>
+            <h3 className="about__title">Global</h3>
             <span className="about__subtitle">Easy Collaboration</span>
         </div>
         <div className="about__box">
