@@ -1,5 +1,8 @@
 import Project1 from "../../assets/project1_piano.webp";
-import Project2 from "../../assets/project2_bmi.webp";
+import Project2 from "<div styleName="" />
+<div styleName="" />
+<assets />
+<project_2></project_2>bmi.webp";
 import Project3 from "../../assets/project3_nasamemory.webp";
 
 
