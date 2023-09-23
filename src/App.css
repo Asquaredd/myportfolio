@@ -12,6 +12,7 @@
     --title-color-dark:rgba(0, 76, 255, 0.707);
     --text-color: hsl(var(--hue), var(--sat), 46%);
     --body-color: hsl(var(--hue), var(--sat), 98%);
+    --dark-color: hsl(var(--hue), var(--sat), 0%);
     --container-color: #fff;
     /* STATIC TYPOGRAPHY */
     --body-font: "Nunito", sans-serif;
