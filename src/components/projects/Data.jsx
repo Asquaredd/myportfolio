@@ -23,7 +23,7 @@ export const projectsData = [
         image: Project8,
         title: "Step-Seqencer",
         category: "Vanila Js",
-        link: "https://asquaredd.github.io/bmiCalculator/",
+        link: "https://asquaredd.github.io/Step-Sequencer/",
     },
     {
         id: 3,
