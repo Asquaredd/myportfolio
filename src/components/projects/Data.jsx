@@ -14,8 +14,8 @@ export const projectsData = [
     {
         id: 1,
         image: Project1,
-        title: "Piano Web App",
-        category: "Vanila Js",
+        title: "NASA MINDS 2024 - Telescope Drone",
+        category: "All",
         link: "https://asquaredd.github.io/bmiCalculator/"
     },
     {
@@ -58,11 +58,12 @@ export const projectsData = [
         image: Project2,
         title: "BMI Calculator",
         category: "Vanilla Js",
+        link: "https://asquaredd.github.io/bmiCalculator/"
     },
     {
         id: 8,
         image: Project4,
-        title: "DIY wifi Artificial Intelligence Art Gallery",
+        title: "Artificial Intelligence Art Gallery",
         category: "IOT",
     },
     {
