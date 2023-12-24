@@ -1,4 +1,4 @@
-import Project1 from "../../assets/project1_piano.webp";
+import Project1 from "../../assets/DRONE.png";
 import Project3 from "../../assets/project3_nasamemory.webp";
 import Project2 from "../../assets/project_2bmi.webp";
 import Project4 from "../../assets/project4_Gallery.webp";
