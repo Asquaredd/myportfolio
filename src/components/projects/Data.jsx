@@ -37,7 +37,7 @@ export const projectsData = [
         image: Project9,
         title: "Blackjack",
         category: "A",
-        link: "https://asquaredd.github.io/ArtificialArtGallery/",
+        link: "https://asquaredd.github.io/Blackjack/",
     },
     {
         id: 5,
