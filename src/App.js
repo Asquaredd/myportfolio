@@ -22,7 +22,6 @@ const App = () => {
         <Services />
         <Qualification />
         <Portfolio />
-        <Testimonials />
         <Contact />
       </main>
       <Footer />
